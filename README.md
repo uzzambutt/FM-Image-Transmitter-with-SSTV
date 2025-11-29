@@ -3,6 +3,8 @@
 This is a small **through-hole FM audio transmitter** designed at **Northern Labs PK** by Muhammad Uzzam Butt.  
 When you input**SSTV audio**, it will transmit that over FM so a normal FM receiver + SSTV decoder can reconstruct images.
 
+![schematic](src/Schematic_New-Project_2025-04-30_PCBWay Community.png)
+
 > ⚠️ **Warning**  
 >  Plz dont do anything legal with it or modify the circuit to outout higher power signal as FM without license is illegal.
 
