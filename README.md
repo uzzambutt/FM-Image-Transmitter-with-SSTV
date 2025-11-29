@@ -3,7 +3,7 @@
 This is a small **through-hole FM audio transmitter** designed at **Northern Labs PK** by Muhammad Uzzam Butt.  
 When you input**SSTV audio**, it will transmit that over FM so a normal FM receiver + SSTV decoder can reconstruct images.
 
-![schematic](src/Schematic_New-Project_2025-04-30_PCBWay Community.png)
+![schematic](https://github.com/uzzambutt/FM-Image-Transmitter-with-SSTV/blob/main/src/Schematic_New-Project_2025-04-30_PCBWay%20Community.png)
 
 > ⚠️ **Warning**  
 >  Plz dont do anything legal with it or modify the circuit to outout higher power signal as FM without license is illegal.
@@ -13,6 +13,12 @@ When you input**SSTV audio**, it will transmit that over FM so a normal FM recei
 ## FM SSTV Transmitter
 
 This board is basically an **analog FM circuit**:
+
+![PCBF](https://github.com/uzzambutt/FM-Image-Transmitter-with-SSTV/blob/main/src/1533336674b4b2fec0f114ee6a4b1cce5372c8df10261.png)
+
+![PCBB](https://github.com/uzzambutt/FM-Image-Transmitter-with-SSTV/blob/main/src/153402481240933be95a94050b96a42203242d4660238.png)
+
+
 
 - You give it **audio** (SSTV tones from PC/phone).
 - It transmits in the 88–108 MHz band.
